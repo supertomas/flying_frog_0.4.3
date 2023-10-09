@@ -1,4 +1,4 @@
-# flying_frog
+# flying_frog_0.4.3
 first_OpenSiv3Dgame
 OpenSiv3Dで開発した2Dのアクションゲームです。以下のURLにあるOpenSiv3D_SDK(0.4.3).zipをダウンロードしてください。<br>
 https://zenn.dev/reputeless/articles/article-manual-install<br>
